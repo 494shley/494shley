@@ -1,50 +1,81 @@
-# Hi, I’m Ashley 👋
+<p align="center">
+  <img src="./assets/banner.png" alt="Ashley GitHub banner" width="100%" />
+</p>
 
-I’m a University of Sussex student heading into my final year, learning software development by building practical projects.
+<h1 align="center">Hi, I'm Ashley 👋</h1>
 
-My main project is **Clashly**, a Python desktop app for BlueStacks/ADB automation. Building it has helped me learn about desktop UI design, image detection, app configuration, packaging, debugging, and making tools easier for real users to use.
+<p align="center">
+  University of Sussex student learning software development by building practical Python and web projects.
+</p>
 
-## What I’m learning and building with
+<p align="center">
+  <a href="https://github.com/494shley">
+    <img src="https://img.shields.io/badge/GitHub-494shley-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-- Python
-- Tkinter desktop apps
-- OpenCV / image detection
-- ADB / Android platform tools
-- JSON config systems
-- PyInstaller and Windows app packaging
-- Git and GitHub
-- HTML, CSS, and JavaScript
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=494shley&label=Profile%20views&color=blueviolet&style=flat" />
+</p>
 
-## Projects I’m working on
+---
+
+## 👨‍💻 About Me
+
+I’m learning software development by building real tools, mainly through **Clashly**, a Python desktop app for BlueStacks/ADB automation.
+
+Building Clashly has helped me learn practical skills including desktop UI design, image detection, app configuration, debugging, packaging, and making software easier for real users to install and use.
+
+Right now, I’m focused on improving Clashly into a more polished, user-friendly desktop app with better setup flows, safer config sharing, cleaner automation, and reliable packaged releases.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Tools & Frameworks
+
+![Tkinter](https://img.shields.io/badge/Tkinter-Desktop_UI-blue?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image_Detection-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-Android_Tools-3DDC84?style=flat&logo=android&logoColor=white)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-Windows_Packaging-orange?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
 
 ### Clashly
 
 A Python desktop automation app for BlueStacks/ADB workflows.
 
-It includes a Tkinter interface, image detection, JSON profile configs, stats tracking, debugging tools, licensing, and a Windows installer.
+It includes:
 
-### Portfolio website
+- A Tkinter desktop interface
+- Screenshot and image detection with OpenCV
+- ADB and BlueStacks automation
+- JSON profile/config systems
+- Stats tracking and progress views
+- Debug logs and visual debugging tools
+- Licensing and validation features
+- Windows packaging with PyInstaller
 
-A personal website to show my projects, progress, and skills as I continue learning software development.
+---
 
-### Smaller practice projects
+## 🎯 Current Focus
 
-Python scripts and beginner web apps built while improving my fundamentals.
-
-## Current focus
-
-Right now I’m focused on improving Clashly into a more polished, user-friendly desktop app with better setup flows, safer config sharing, cleaner automation, and reliable packaged releases.
-<!--
-**494shley/494shley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Improving my Python fundamentals
+- Building more polished desktop tools
+- Learning JavaScript, HTML, and CSS
+- Creating a personal portfolio website
+- Getting better at Git, GitHub, and project documentation

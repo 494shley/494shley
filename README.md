@@ -1,39 +1,39 @@
-<p align="center">
+﻿<p align="center">
   <img src="./assets/banner.png" alt="Ashley GitHub banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Ashley 👋</h1>
 
 <p align="center">
-  University of Sussex student learning software development by building practical Python and web projects.
+  University of Sussex student building practical Python desktop tools and learning full-stack web development.
 </p>
 
 <p align="center">
   <a href="https://github.com/494shley">
-    <img src="https://img.shields.io/badge/GitHub-494shley-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-494shley-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
   <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=494shley&label=Profile%20views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=494shley&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m learning software development by building real tools, mainly through **Clashly**, a Python desktop app for BlueStacks/ADB automation.
+I'm a software development student who learns best by building useful things from scratch.
 
-Building Clashly has helped me learn practical skills including desktop UI design, image detection, app configuration, debugging, packaging, and making software easier for real users to install and use.
+Most of my current work is focused on **Clashly**, a Python desktop app for BlueStacks/ADB automation. Building it has helped me develop practical experience with desktop UI design, computer vision, automation, configuration systems, debugging, packaging, and user-focused release flows.
 
-Right now, I’m focused on improving Clashly into a more polished, user-friendly desktop app with better setup flows, safer config sharing, cleaner automation, and reliable packaged releases.
+I like turning messy workflows into tools that feel clearer, safer, and easier to use.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
 
@@ -53,18 +53,18 @@ Right now, I’m focused on improving Clashly into a more polished, user-friendl
 
 ---
 
-## 🌟 Featured Projects
+## ⭐ Featured Project
 
 ### Clashly
 
-A Python desktop automation app for BlueStacks/ADB workflows.
+**Clashly** is a Python desktop automation app built around BlueStacks and ADB workflows.
 
 It includes:
 
 - A Tkinter desktop interface
-- Screenshot and image detection with OpenCV
+- Screenshot capture and image detection with OpenCV
 - ADB and BlueStacks automation
-- JSON profile/config systems
+- JSON profile and strategy configuration systems
 - Stats tracking and progress views
 - Debug logs and visual debugging tools
 - Licensing and validation features
@@ -74,8 +74,14 @@ It includes:
 
 ## 🎯 Current Focus
 
-- Improving my Python fundamentals
-- Building more polished desktop tools
+- Improving my Python fundamentals through real projects
+- Making Clashly more polished, reliable, and user-friendly
 - Learning JavaScript, HTML, and CSS
-- Creating a personal portfolio website
+- Building a personal portfolio website
 - Getting better at Git, GitHub, and project documentation
+
+---
+
+## 📌 What I'm Learning
+
+I'm especially interested in desktop app development, automation, computer vision, packaging, and building software that is practical enough for real people to use.

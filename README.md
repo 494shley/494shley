@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a software development student who learns best by building useful things from scratch.
+I'm a Computer Science student who learns best by building useful things from scratch.
 
 Most of my current work is focused on **Clashly**, a Python desktop app for BlueStacks/ADB automation. Building it has helped me develop practical experience with desktop UI design, computer vision, automation, configuration systems, debugging, packaging, and user-focused release flows.
 

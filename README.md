@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a Computer Science student who learns best by building useful things from scratch.
 
@@ -33,7 +33,7 @@ I like turning messy workflows into tools that feel clearer, safer, and easier t
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -53,7 +53,7 @@ I like turning messy workflows into tools that feel clearer, safer, and easier t
 
 ---
 
-## ⭐ Featured Project
+##  Featured Project
 
 ### Clashly
 
@@ -72,7 +72,7 @@ It includes:
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Improving my Python fundamentals through real projects
 - Making Clashly more polished, reliable, and user-friendly
@@ -82,6 +82,6 @@ It includes:
 
 ---
 
-## 📌 What I'm Learning
+##  What I'm Learning
 
 I'm especially interested in desktop app development, automation, computer vision, packaging, and building software that is practical enough for real people to use.
